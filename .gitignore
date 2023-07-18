@@ -1,0 +1,7 @@
+*.gradle
+.settings/
+*.prj
+appium.log
+*.properties
+settings/
+Reports/
