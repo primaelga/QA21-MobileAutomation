@@ -5,3 +5,6 @@ appium.log
 *.properties
 settings/
 Reports/
+.project
+.classpath
+bin/
